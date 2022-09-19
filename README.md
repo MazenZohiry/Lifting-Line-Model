@@ -6,5 +6,3 @@ The Lifting Line Method (LLM) is a method used to detemine the performance param
 
 # Model Walkthrough
 
-
-# Aknowledgment
